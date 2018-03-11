@@ -59,14 +59,5 @@ To whomever is reading, I hope you have a time here!
 <h2 id="Misc">Misc</h2>
  
 
-<h1 id="myHeader">Hello World!</h1>
-<button onclick="displayResult()">Change text</button>
-
-<script>
-function displayResult() {
-    document.getElementById("myHeader").innerHTML = "Have a nice day!";
-}
-</script>
-
 </body>
 </html>
