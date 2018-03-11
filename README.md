@@ -1,17 +1,14 @@
 # All-about-Me
 <html>
-
-<!-- REVISE THE BACKGROUNDDDD-->
     
-<h1 style="font-size:48px;"> About Chris Wang</h1>
+<h2 style="font-size:48px;"> About Chris Wang</h2>
     
 <blockquote cite="https://www.brainyquote.com/quotes/chanda_kochhar_848186?src=t_aim">
 "Aim for the sky, but move slowly, enjoying every step along the way. It is all those little steps that make the journey complete." -Chanda Kochhar
 </blockquote>
     
 <pre style="font-family:sans-serif;">
-Welcome to (insert my website name)! Here, you can view my current and/or future projects, 
-my interests, my hobbies, and some misc. stuff that I include for my own convenience.
+Welcome. I am Chris Wang and on this website, you will find my personal work-in-progress or completed projects! 
 </pre>
 <hr>
 
@@ -37,15 +34,8 @@ my interests, my hobbies, and some misc. stuff that I include for my own conveni
     <td> A place for random stuff</td>
 </tr>
 </table>
-    
-<ul>
-    <li><a href="#Me">About me</a></li>
-    <li><a href="#Passion">Passion</a></li>
-    <li><a href="#Interests">Interests</a></li>
-    <li><a href="#Misc">Misc</a></li>
-    </ul>
+
 <hr>
-<h3>In case the menu fails to load or work:<h3>
 <h3>About Me</h3>
 <p><a href="#Me">Go to the About me Section</a></p>
 <h3>Passion</h3>
@@ -65,6 +55,6 @@ my interests, my hobbies, and some misc. stuff that I include for my own conveni
     
 <h2 id="Misc">Misc</h2>
 
-    
+<img src="http://globe-views.com/dcim/dreams/clouds/clouds-01.jpg">   
 </body>
 </html>
