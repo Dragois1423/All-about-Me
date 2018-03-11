@@ -1,7 +1,7 @@
 # All-about-Me
 <html>
     
-<h2 style="font-size:48px;"> About Chris Wang (work-in-progress)</h2>
+<h2 style="font-size:48px;"> About Chris Wang (work-in-progress/HTML only)</h2>
 
 <blockquote cite="https://www.brainyquote.com/quotes/chanda_kochhar_848186?src=t_aim">
 "Aim for the sky, but move slowly, enjoying every step along the way. It is all those little steps that make the journey complete." -Chanda Kochhar
@@ -10,7 +10,7 @@
 <pre style="font-family:sans-serif;">
 To whomever is reading, I am Chris Wang and on this website, you will find my personal work-in-progress or completed projects! 
 If you wish to view the code for this project with CSS and JavaScript included, please check the
-other "All-About-Me" section! Welcome, and I hope you have a time here!
+other "All-About-Me" section! Welcome, and I hope you have a fantastic time here!
 </pre>
 <hr>
 
