@@ -1,8 +1,8 @@
 # All-about-Me
 <html>
     
-<h2 style="font-size:48px;"> About Chris Wang</h2>
-    
+<h2 style="font-size:48px;"> About Chris Wang (work-in-progress)</h2>
+
 <blockquote cite="https://www.brainyquote.com/quotes/chanda_kochhar_848186?src=t_aim">
 "Aim for the sky, but move slowly, enjoying every step along the way. It is all those little steps that make the journey complete." -Chanda Kochhar
 </blockquote>
@@ -54,7 +54,6 @@ Welcome. I am Chris Wang and on this website, you will find my personal work-in-
 <h2 id="Interests">Interests</h2>
     
 <h2 id="Misc">Misc</h2>
-
-<img src="http://globe-views.com/dcim/dreams/clouds/clouds-01.jpg">   
+ 
 </body>
 </html>
