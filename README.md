@@ -8,9 +8,9 @@
 </blockquote>
     
 <pre style="font-family:sans-serif;">
-To whomever is reading, I am Chris Wang and on this website, you will find my personal work-in-progress or completed projects! 
-If you wish to view the code for this project with CSS and JavaScript included, please check the
-other "All-About-Me" section! Welcome, and I hope you have a fantastic time here!
+To whomever is reading, I am Chris Wang and on this website, you will find my personal work-in-progress 
+or completed projects! If you wish to view the code for this project with CSS and JavaScript included,7
+please check the other "All-About-Me" section! Welcome, and I hope you have a fantastic time here!
 </pre>
 <hr>
 
