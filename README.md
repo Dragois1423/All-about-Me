@@ -8,7 +8,7 @@
 </blockquote>
     
 <pre style="font-family:sans-serif;">
-Welcome. I am Chris Wang and on this website, you will find my personal work-in-progress or completed projects! 
+Welcome. I am Chris Wang and on this website, you will find my personal work-in-progress or completed projects! To whomever is reading, I hope you have a time here!
 </pre>
 <hr>
 
