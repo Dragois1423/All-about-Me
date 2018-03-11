@@ -58,8 +58,6 @@ To whomever is reading, I hope you have a time here!
     
 <h2 id="Misc">Misc</h2>
  
- <h2>Using The id Attribute in JavaScript</h2>
-<p>JavaScript can access an element with a specified id by using the getElementById() method:</p>
 
 <h1 id="myHeader">Hello World!</h1>
 <button onclick="displayResult()">Change text</button>
@@ -69,5 +67,6 @@ function displayResult() {
     document.getElementById("myHeader").innerHTML = "Have a nice day!";
 }
 </script>
+
 </body>
 </html>
