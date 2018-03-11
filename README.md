@@ -53,11 +53,10 @@ To whomever is reading, I hope you have a time here!
 <h2 id="Me">About Me</h2>
     
 <h2 id="Passion">Passion</h2>
-    
+
 <h2 id="Interests">Interests</h2>
     
 <h2 id="Misc">Misc</h2>
  
-<button onclick="myFunction()">Show Elements</button>
 </body>
 </html>
