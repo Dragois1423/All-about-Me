@@ -37,6 +37,7 @@ To whomever is reading, I hope you have a time here!
 </table>
 
 <hr>
+<div style="background-color:powderblue;">
 <h3>About Me</h3>
 <p><a href="#Me">Go to the About me Section</a></p>
 <h3>Passion</h3>
@@ -45,6 +46,7 @@ To whomever is reading, I hope you have a time here!
     <p><a href="#Interests">Go to the Interests Section</a></p>
 <h3>Miscallaneous</h3>
     <p><a href="#Misc">Go to the Misc Section</a></p>
+    </div>
 <!-- REMEMBER TO ADD MORE SECTIONS IF NEEDED-->
 <hr>
 
@@ -56,5 +58,6 @@ To whomever is reading, I hope you have a time here!
     
 <h2 id="Misc">Misc</h2>
  
+<button onclick="myFunction()">Show Elements</button>
 </body>
 </html>
