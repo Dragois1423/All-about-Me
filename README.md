@@ -1,6 +1,6 @@
 # All-about-Me
 <html>
-    
+
 <h2 style="font-size:48px;"> About Chris Wang (work-in-progress/HTML only)</h2>
 
 <blockquote cite="https://www.brainyquote.com/quotes/chanda_kochhar_848186?src=t_aim">
