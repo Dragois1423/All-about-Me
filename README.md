@@ -45,7 +45,7 @@ please check the other "All-About-Me" section! Welcome, and I hope you have a fa
     <p><a href="#Passion">Go to the Passion Section</a></p>
 <h3>Projects</h3>
     <p><a href="#Projects">Go to the Projects Section</a></p>
-<h3>Miscallaneous</h3>
+<h3>Miscellaneous</h3>
     <p><a href="#Misc">Go to the Misc Section</a></p>
     </div>
 <!-- REMEMBER TO ADD MORE SECTIONS IF NEEDED-->
