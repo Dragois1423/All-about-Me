@@ -14,6 +14,10 @@
     counter-reset: section;
 }
 
+    .countersection{
+    counter-reset:subsection
+}
+    
     .countersection::before {
         counter-increment: section;
         content: "Section " counter(section) ": ";
@@ -23,6 +27,7 @@
         counter-increment: subsection;
         content: counter(section) "." counter(subsection) " ";
     }
+        
     table, th, td {
         border: 1px solid black;
     }
@@ -169,16 +174,51 @@ my interests, my hobbies, and some misc. stuff that I include for my own conveni
     <p class="countersection"><b> Work Experience</b></p>
         <div>
         <h4 class="countersubsection">McDonald's Crew Member</h4>
-            <p class="width">McDonald's is a globally recognized fast food restaurant, which prides on its ability to consistently meet the demands of customers' expectations of fast and quality meals. As a crew member, I collaborated with my peers in order to maintain the excellent standards that customers expect. Whether it'd be becoming the cashier, janitor or the cook for the night, I would communicate between my peers and myself to ensure the restaurant not only is sanitary but also feels welcoming for the customers. That is, there was no single task that I was designated to accomplish because my role as a crew member was to identify and assist any areas that were lacking. </p>
+            <p class="width">McDonald's is a globally recognized fast food restaurant, which prides on its ability to consistently meet the demands of customers' expectations of fast and quality meals. As a crew member, I collaborated with my peers in order to maintain the excellent standards that customers expect. Whether it'd be becoming the cashier, janitor or the cook for the night, I would communicate with my peers to ensure the restaurant not only is sanitary but also feels welcoming for the customers. That is, there was no single task that I was designated to accomplish because my role as a crew member was to identify and assist any area that was lacking. </p>
+    
+            <br>
+            <br>
+            
+    <p class="countersection"> <b> Personal Projects </b></p>
+      
+        <h4 class="countersubsection"> Personalied Website about myself</h4>
+            <p class="width"> There are two reasons why I created ths project, one of which to familiarize myself with web programming languages through a passion project, and other reason being that this project would assist the employers to understand me in general a lot better. Needing to skim through multiple resumes, employers would spend at most one minute on my resume before moving onto the next. This projects elaborates on all of the features as indicated on my resume in case an employer would like to understand me a bit better before an interview. 
+                <br> 
+                <br>
+                <br>
+                
+                There are two "All About Me" links: one with HTML only and one with both HTML and CSS, with  Javascript possibly included upon request. This is due to the fact that github unfortunately is incompatible with CSS and Javascript (unless I'm mistaken). And so, I created a README.MD document specifically with only HTML as a quick method of allowing the employers run through all of the major points regarding my activities and extracurriculars. </p></div>
+         
+        <h4 class="countersubsection"> Molecular interaction simulation under different temperature </h4>
+            <p class="width"> To be completed by August 2018</p>
+            
+        <h4 class="countersubsection"> Molar Mass Calculator </h4>
+            <p class="width"> To be completed by August 2018</p>
  
-            <br>
-            <br>
+                <br>
+                <br>
+            
+    <p class="countersection"> Volunteering </p> 
+        
+        <h4 class="countersubsection"> Air Cadet</h4>
+            <p class="width"> Air Cadet is a youth program whose primary purpose is to develop and nurture teens to becme great and impactful leaders in the future. While in air cadet, I was an instructor for younger cadets known as the "Level 2's". I was responsible of giving either 30 minute or 60 minute lessons every other week. That is, I was responsible for educating them on aerospace material through engaging and interesting activities. And this ultimately required excellent preparation and communication skills on my part, because I had to allocate time away from school towards the construction and rehearsal of my lesson plans prior to the actual teaching day in order to acheive maximum efficiency when presenting.</p>
+    
+        <h4 class="countersubsection"> Homework Club Captain</h4>
+            <p class="width"> Homework Club is a weekly after school program dedicated to help elementary school children with their homework. As captain, I oversaw the whole program and led a group of 9 volunteers to assist children with assignments, studying for tests and reading. What's more, I also devised learning strategies for each children based on their learning capabilities. Ultimately, I had to possess a strong, adaptive ability for unforeseen situations and excellent accountability.
+          
+        <h4 class="countersubsection"> Summer Camp Assistant</h4>
+            <p class="width"> Everyday from 9am to 3pm for two months as the assistant, I was primarily responsible for setting up and leading activities along with the program leaders and to support them whenever required. Because the program leaders had to oversee the entire program, I was essentially the person whom all the children would communicate first, the one closest to them during the camp. My responsibilities also included but not limited to resolving conflicts between children, connecting with their parents and overseeing the children's safety during outdoor excursions. In order to complete all this, I demonstrated superior teamwork prowess and possessed excellent team player qualities. 
+                
+                <br>
+                <br>
+                
 <h5><b>Hover over "Passion" and "Projects"!</b></h5>
 <div class="dropdown"> 
 <h2 id="Passion">Passion</h2>
     <div class="dropdowncontent">
         <p>Knitting</p>
         <p>Self-Learning</p>
+        
     </div>
 </div>
             <br>
@@ -192,7 +232,7 @@ my interests, my hobbies, and some misc. stuff that I include for my own conveni
 <div class="dropdown">  
 <h2 id="Projects">Projects</h2>
     <div class="dropdowncontent">
-        <p>Molecular interaction under different temperature simulation</p>
+        <p>Molecular interaction simulation under different temperature </p>
         <p>Molar Mass Calculator</p>
     </div>
     <br>
